@@ -23,4 +23,7 @@
 #undef V60_POLESTAR
 #endif
 
+// I type fast
+#define PERMISSIVE_HOLD
+
 #endif
